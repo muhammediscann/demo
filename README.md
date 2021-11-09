@@ -1,4 +1,3 @@
-API'ler;
 Swagger -> localhost:8080/swagger-ui.html
 In Memory DB -> http://localhost:8080/h2-console
 
