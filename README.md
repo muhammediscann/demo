@@ -6,6 +6,7 @@ Kullanılan Teknolojiler
 	Spring Boot
 	Spring Data
 	Restful Webservices
+	Mockito
 	H2
 
 - Uygulama 10 tane yeri olan bir garajdaki araçların girişe en yakın olacak şekilde gelen araçlara tahsis edilmesinin kaydını tutar.
